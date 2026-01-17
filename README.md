@@ -34,7 +34,7 @@ This project focuses on DOM manipulation, UI behavior and scroll-based controls 
 
 ## 📂 Folder Structure
 ```bash
-silent-scroll/
+silent-scroll-reel-project/
 │── index.html        # Main HTML layout
 │── style.css         # Styling and UI layout
 │── script.js         # Reels data & DOM logic
