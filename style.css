@@ -28,7 +28,7 @@ main::-webkit-scrollbar {
 
 section {
     height: 100%;
-    width: 400px;
+    max-width: 400px;
     border-radius: 10px;
     margin: auto;
     margin-bottom: 20px;
@@ -167,4 +167,5 @@ section {
 
 .mute:active {
     scale: 0.95;
+
 }
